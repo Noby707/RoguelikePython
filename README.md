@@ -1,6 +1,7 @@
 # RoguelikePython
 
-A roguelike python tutorial: https://www.youtube.com/watch?v=6XfQqFvJtts&list=PLKUel_nHsTQ1yX7tQxR_SQRdcOFyXfNAb
+A roguelike python tutorial: http://rogueliketutorials.com/
+
 
 Goals:
 ---
@@ -19,4 +20,3 @@ Tinker with the mindset of trying more and not focus so much on game design or b
 
 Challenges
 ---
-The tutorial is in py2.7 and the libraries used are different.

@@ -6,3 +6,7 @@ Game Scope:
 - a few items and spells
 - tile based systems
 - sound effects and music
+
+Expected Challenges
+
+The tutorial is in py2.7 and the libraries used are different.

@@ -20,3 +20,7 @@ Tinker with the mindset of trying more and not focus so much on game design or b
 
 Challenges
 ---
+
+Plans
+---
+Research and implement dungeon generation algorithms (Part 3)
